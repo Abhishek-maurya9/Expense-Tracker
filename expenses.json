@@ -1,0 +1,10 @@
+[
+    {
+        "expense_id": 1,
+        "title": "Hostel",
+        "amount": 4000.0,
+        "category": "Rent",
+        "date": "2026-10-01",
+        "description": "pay the rent"
+    }
+]
