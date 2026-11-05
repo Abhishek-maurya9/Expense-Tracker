@@ -78,7 +78,7 @@ Expense-Tracker/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Abhishek-maurya9/Expense-Tracker
 ```
 
 ### 2. Navigate to the Project Directory
